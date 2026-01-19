@@ -1,4 +1,3 @@
-# Python_Data_Analysis-
 # Superstore Sales Analysis - Python EDA
 
 ## 📌 Project Overview
